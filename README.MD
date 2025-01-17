@@ -35,6 +35,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
+O Podcast de exemplo gerado pode ser conferido nesse link: https://github.com/ae-soares/prompts-for-podcast-generate-by-ia/blob/main/output/audio_podcast.mp4
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Copilot](https://copilot.microsoft.com/)
