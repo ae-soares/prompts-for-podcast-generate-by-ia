@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./.github/assets/Podcast_Financas.jpg"
     width="300"
 />
 </p>
